@@ -6,9 +6,9 @@ A soldity contract that allows users to deposit their money and set spcific with
 This contract was developed using remix and deployed using 
 
 ## Deployment
-Requires Solidity > 0.5.0__
-Compiled using COMPILER + version 0.5.1__
-Deployed Using JavaScript VM__
+Requires Solidity > 0.5.0 <br />
+Compiled using COMPILER + version 0.5.1 <br />
+Deployed Using JavaScript VM <br />
 
 
 ## Contract In Action
