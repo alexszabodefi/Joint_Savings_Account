@@ -14,7 +14,7 @@ Deployed Using JavaScript VM
 ## Contract In Action
 
 ### Setting Withdraw Addresses
-![Transaction](Execution_Results/Setting_Contract_Addresses)
+![Transaction](Execution_Results/Setting_Contract_Addresses.png)
 
 ### Depositing ETH
 ![Transaction](Execution_Results/1_ETH_Deposit.png)
