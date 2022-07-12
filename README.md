@@ -3,12 +3,12 @@
 A soldity contract that allows users to deposit their money and set spcific withdraw addresses so that they can ensure their money won't be stolen!
 
 ## Development
-This contract was developed using remix and deployed using 
+This contract was developed using remix.
 
 ## Deployment
 Requires Solidity > 0.5.0 <br />
 Compiled using COMPILER + version 0.5.1 <br />
-Deployed Using JavaScript VM <br />
+Deployed using JavaScript VM <br />
 
 
 ## Contract In Action
